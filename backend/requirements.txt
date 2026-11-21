@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+litellm
+python-dotenv
+pydantic
+pytest
+httpx
+pytest-asyncio
+orjson
+soundfile
